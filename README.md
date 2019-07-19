@@ -2,6 +2,8 @@ Baby Shark
 -----------------------------------------------------
 Silly script to annoy my colleagues
 
+![alt text](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/what-is-baby-shark-1548869443.jpg?crop=0.526xw:1.00xh;0.342xw,0&resize=480:*)
+
 Baby Shark doo doo doo doo doo doo.
 Baby Shark doo doo doo doo doo doo.
 Baby Shark doo doo doo doo doo doo.
